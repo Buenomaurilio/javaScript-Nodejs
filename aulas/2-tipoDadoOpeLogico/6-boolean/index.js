@@ -1,3 +1,8 @@
+/*
+ *   Copyright (c) 2020 
+ *   All rights reserved.
+ */
+
 console.log(true)
 console.log(false)
 console.log(10 > 2)

@@ -1,3 +1,8 @@
+/*
+ *   Copyright (c) 2020 
+ *   All rights reserved.
+ */
+
 console.log('Ola, sou Maurilio')
 console.log("ola, sou Maurilio")
 console.log(`Ola, sou Maurilio`)
