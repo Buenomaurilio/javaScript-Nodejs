@@ -6,6 +6,6 @@ console.log(carros.includes("Ford"))
 
 // if(carros.includes("BMW")) {}
 
-if(carros.includes (carroBuscado)) {
+if(carros.includes(carroBuscado)) {
     console.log(`Carro ${carroBuscado} encontrado  !!!`)
 }
