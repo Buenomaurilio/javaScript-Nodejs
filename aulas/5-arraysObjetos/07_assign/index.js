@@ -4,13 +4,15 @@ let carro = {
   motor: '2.0'
 }
 
-console.log(carro);
+console.log(carro)
 
 let adicionais = {
   tetosolar: true,
   arcondicionado: true,
 }
 
-Object.assign(carro, adicionais);
+Object.assign(carro, adicionais)
 
-console.log(carro);
+console.log(carro)
+
+console.table(carro)
