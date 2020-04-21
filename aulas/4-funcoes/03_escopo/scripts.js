@@ -1,11 +1,11 @@
-let y = 10;
+let y = 10
 
 function imprimir() {
-  let y = 150;
+  let y = 150
 
-  console.log(y);
+  console.log(y)
 }
 
-imprimir();
+imprimir()
 
-console.log(y);
+console.log(y)
