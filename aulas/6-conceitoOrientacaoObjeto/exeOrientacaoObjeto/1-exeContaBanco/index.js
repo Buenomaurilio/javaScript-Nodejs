@@ -12,7 +12,9 @@ class Banco {
 }
 
 
-let banco = new Banco(1000)
+let banco = new Banco(0)
+
+console.log(banco)
 
 banco.deposito(1000)
 
@@ -20,6 +22,8 @@ banco.deposito(1000)
 
 console.log(banco.saldo)
 
-banco.saque(200)
+banco.saque(5000)
 
 console.log(banco.saldo)
+
+console.log(banco)
